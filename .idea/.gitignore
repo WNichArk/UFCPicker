@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/Config.java
+/Config.class
+src\main\java\co\Will\configuration\Config.java
+src/main/java/co/Will/configuration/Config.java
+src/main/resources/application.yaml
+application.yaml
+*/application.yaml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+target
+/target/
+src/main/java/co/willnicholson/configuration
+co.willnicholson.configuration.Config
